@@ -1,0 +1,4 @@
+{
+  "db": "mongodb://localhost/sahulat-service",
+  "jwtPrivateKey": "SomePrivateKey"
+}
